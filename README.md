@@ -16,6 +16,6 @@ markdown基础语法
 + 物理  
 + 生物  
 ##最喜欢的明星图片    
-![赵丽颖](https://www.duitang.com/blog/?id=491211236)
+![赵丽颖](http://www.ffpic.com/shoujibizhi/131203076739.html)
 ##本人github链接地址    
 <https://github.com/caohuihui1>
